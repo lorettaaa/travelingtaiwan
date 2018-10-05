@@ -1,6 +1,7 @@
 taipei
-hsinchu
-taichung
 taoyuan
-kenting
+hsinchu
+
+taichung
 tainan
+kenting
