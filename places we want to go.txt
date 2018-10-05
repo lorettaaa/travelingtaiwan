@@ -3,3 +3,4 @@ hsinchu
 taichung
 taoyuan
 kenting
+tainan
